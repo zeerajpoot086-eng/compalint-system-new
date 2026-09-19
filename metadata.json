@@ -1,0 +1,8 @@
+{
+  "name": "Remix FixMate – Smart Complaint \u0026 Service Management System",
+  "description": "Full-stack complaint and service management platform featuring AI smart issue analysis, role-based user/admin/technician dashboards, and real-time status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
