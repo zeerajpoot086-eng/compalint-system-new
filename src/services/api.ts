@@ -8,7 +8,7 @@ import {
   AIAnalysis
 } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://compalint-system-new-1.onrender.com/api';
 
 // Helper for making authenticated requests
 async function request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
